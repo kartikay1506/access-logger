@@ -1,0 +1,12 @@
+{
+  "name": "apache-logger",
+  "version": "1.0.0",
+  "description": "CSV Logger for apache",
+  "main": "index.js",
+  "author": "Aman Jagdev",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
